@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <defs>
+    <linearGradient id="t7grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="cyangrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#t7grad)" />
+  <!-- Triad triangle node structure -->
+  <polygon points="24,10 38,36 10,36" stroke="url(#cyangrad)" stroke-width="2.5" stroke-linejoin="round" fill="none" opacity="0.85" />
+  <circle cx="24" cy="10" r="3.5" fill="#38bdf8" />
+  <circle cx="38" cy="36" r="3.5" fill="#38bdf8" />
+  <circle cx="10" cy="36" r="3.5" fill="#38bdf8" />
+  <!-- Number 7 stylized inside -->
+  <path d="M19 19 H29 L23 31" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
